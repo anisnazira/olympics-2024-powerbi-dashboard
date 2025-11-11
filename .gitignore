@@ -1,0 +1,4 @@
+*.pbix
+archivenew/
+archive/
+dashboard-img/*.png
