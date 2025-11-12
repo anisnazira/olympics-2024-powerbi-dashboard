@@ -2,7 +2,7 @@
 
 
 A quick look at Olympic Paris 2024 results and trends, visualized in Power BI. This dashboard allows us to explore medal counts, country rankings and discipline specific trends at the 2024 Paris Olympics.
-
+This dashboard not only highlights which sports contributed most to the overall medal tally, but also enables a deep dive into Malaysia’s performance, showing how its athletes fared across different disciplines. By comparing Malaysia’s results with neighbouring Southeast Asian countries, the dashboard provides insight into regional strengths and gaps.
 
 <br>
 
